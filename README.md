@@ -6,7 +6,7 @@ I'm a Software Engineering Manager and Developer specializing in web technologie
 
 ## 🧑‍💼 What I'm Doing
 
-Currently, I'm working as an Engineering Manager at [This Dot Labs](https://github.com/thisdot) with the amazing [Tracy Lee](https://github.com/ladyleet) and a bunch of other amazing folks where we're working to help grow the worldwide developer community around a common goal of learning about and furthering web technologies.
+Currently, I'm working as a Staff Engineer at [ClickUp](https://clickup.com/) leading the Chat team where we're working to help our customers be more productive and save time.
 
 ## 💬 Ask me about
 
@@ -28,8 +28,8 @@ I also love talking about these technology frameworks:
 
 ## 🔭 What I'm Working On
 
-I just finished building my personal site using [Astro](https://astro.build/). Next, I plan on making improvements to my [Serverless Template](https://github.com/dustinsgoodman/serverless-template) to help teams build Serverless applications using microservice architectures in a monorepo setup.
+Currently doing a deeper exploration of Redux stores and GraphQL state management in large applications. I'm also experimenting with hybrid Angular + React apps and the advantages/disadvantages of cross pollination.
 
 ## 🌱 What I'm Learning
 
-I'm looking forward to trying out [Remix](https://remix.run/) and [Qwik](https://github.com/BuilderIO/qwik).
+I'm spendig time to more deeply understand web sockets. Specifically, how to provide large scale subscription models to an application while reducing/optimizing server pressure on message delivery.
